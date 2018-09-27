@@ -1,0 +1,90 @@
+#/*ecommerce-json-data-store
+
+Imagine you are creating a JSON data store for a Ecommerce platform like
+flipkart.com or amazon.in. Create a JSON to show what fields you will choose
+and what type of data (string/object/array) would you want to store in those field.
+
+ json data store contains some information about laptop.*/
+//array containing objcts,string,numbers,boolean values
+
+
+laptopInfo = 
+{
+
+           " productNum" : 1,
+
+           "companyName" : "dell",
+           
+           "Processor" : "i3",
+ 
+           "InternalMemory(ROM)" : "256GB",
+           
+           "Camera" :	"Yes",
+           
+           "Processorspeed" : "2.0GHz",
+           
+           "MemorySize(RAM)" : "4GB",
+           
+           "LaptopWeight" : "2KG-3KG",
+           
+           "OperatingSystem" : "Windows10pro",
+           
+           "ScreenSize" : "15inch",
+           
+           "price" : 30000,
+
+           "isAvailable" : true
+
+    },
+    {
+           "productNum" : 2,
+           
+           "companyName" : "hp",
+
+           "Processor" : "i3",
+ 
+           "InternalMemory(ROM)" : "500GB",
+           
+           "Camera" :	"Yes",
+           
+           "Processorspeed" : "3.0GHz",
+           
+           "MemorySize(RAM)" : "4GB",
+           
+           "LaptopWeight" : "2KG-4KG",
+           
+           "OperatingSystem" : "Windows",
+           
+           "ScreenSize" : "15inch",
+           
+           "price" : 32000,
+
+           "isAvailable" : true
+          
+},
+{
+           "productNum" : 3,
+           
+           "Processor" : "Pentium Dual Core (3rd Generation)",
+ 
+           "InternalMemory(ROM)" : "500GB",
+           
+           "Camera" :	"Yes",
+           
+           "Processorspeed" : "2.4GHz",
+           
+           "MemorySize(RAM)" : "8GB",
+           
+           "LaptopWeight" : "2KG-2.5KG",
+           
+           "OperatingSystem" : "Windows",
+           
+           "ScreenSize" : "15inch",
+           
+           "price" : 40000,
+
+           "isAvailable" : true
+           }
+
+]
+
